@@ -1,4 +1,4 @@
-# nanoeux
+# EUX GRC
 ## The World Outside my Comfort Zone
 This page is a space for discovering the things I can do without knowing I actually can because I am always afraid to try.
 
