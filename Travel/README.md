@@ -1,5 +1,6 @@
 # Oh, The Places You'll Go
-![travel pic](/deskstop/GH/Slide1.JPG "Travel")
+![travel pic](C:/Users/Eunice/Desktop/GH/Slide1.JPG)
+
 
 
 
