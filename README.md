@@ -1,7 +1,7 @@
 # EUX GRC
-## The World Outside my Comfort Zone
-This page is a space for discovering the things I can do without knowing I actually can because I am always afraid to try.
+## The World Outside My Comfort Zone
+![picture](https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.0-9/p720x720/83097508_627735004663166_2889125973469429760_o.jpg?_nc_cat=101&_nc_sid=dd9801&_nc_eui2=AeEpYYkk6sN5thIQnaT4Cu6Hop3RM-xiXZOindEz7GJdk2Bg9BskkY4fpStFZLKSzWe3IMv9W-kfyxtGjMxVGghR&_nc_ohc=K5DNAgJjUmQAX8BzH9l&_nc_ht=scontent.fmnl9-1.fna&_nc_tp=6&oh=0884f3fd772dbc72b13ac57ec5c90bb0&oe=5EFF7319)
+### No Growth in The Comfort Zone, No Comfort in The Growth Zone.
 
-The space is as huge as the galaxy.
 
-![picture](https://i.pinimg.com/originals/0f/36/e4/0f36e493945939796a0f1f26983993c6.jpg)
+
