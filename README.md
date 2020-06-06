@@ -11,7 +11,7 @@ We all have fear. It is innate to us as humans. This is a comforting reminder th
 
 I am starting this space to do something different and discover more about myself. I want to have this time to really appreciate the little things in life. To find happiness in taking risk and face challenges confidently. 
 
-Nothing will change if you will not take any action
-*One step at a time, Little by little*
-Explore the world and find a new world outside
+Nothing will change if you will not take any action.
+*One step at a time, Little by little.*
+Explore the world and find a new world outside.
 
