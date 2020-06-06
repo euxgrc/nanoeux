@@ -4,4 +4,4 @@ This page is a space for discovering the things I can do without knowing I actua
 
 The space is as huge as the galaxy.
 
-[![Galaxy camp](galaxy picture)] (https://i.pinimg.com/originals/0f/36/e4/0f36e493945939796a0f1f26983993c6.jpg)
+[!(https://i.pinimg.com/originals/0f/36/e4/0f36e493945939796a0f1f26983993c6.jpg)]
