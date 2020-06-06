@@ -7,4 +7,6 @@ I was always afraid of the unknown. It scares me when I do not know the things a
 
 We all have fear. It is innate to us as humans. This is a comforting reminder that everybody is just as scared as how you feel about the unknown. You just have to choose whether you’re going to let this fear hold you back, or whether you’re going to run toward it. 
 
+#Leap of Faith
 
+I am starting this space to do something different and discover more about myself. I want to have this time to really appreciate the little things in life. 
