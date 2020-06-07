@@ -1,6 +1,15 @@
 <html>
 <body>
   
+<style>
+body {
+  background-image: url('https://i.pinimg.com/originals/5c/16/d9/5c16d9cf31ed40c5f9231ea44dd89758.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+  
 <h1 style="font-size:80px;font-family:Quiska;text-align:center">Eux Grc</h1>
 
 <h2 style="font-family:Mahoni Free Personal Use;color:red;text-align:center">The World Outside My Comfort Zone</h2> 
