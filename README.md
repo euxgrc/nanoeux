@@ -1,7 +1,7 @@
 <html>
 <body>
   
-<h1 style="font-family:Beautiful Heartbeat;">EUX GRC</h1>
+<h1 style="font-size:1000%;font-family:Beautiful Heartbeat">EUX GRC</h1>
 <h2 style="font-family:Mahoni Free Personal Use;">The World Outside My Comfort Zone</h2> 
 </body>
   
