@@ -3,7 +3,7 @@
   
 <style>
 body {
-  background-image: url('https://i.pinimg.com/originals/5c/16/d9/5c16d9cf31ed40c5f9231ea44dd89758.jpg');
+  background-image: url('https://image.freepik.com/free-vector/abstract-pattern-background-with-watercolor-texture_1048-5639.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
