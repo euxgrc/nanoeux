@@ -10,6 +10,7 @@
 
 <em style="font-family:Remachine Script Personal Use;color:red;text-align:cente;font-size:40pxr">There is no growth in the comfort zone and no comfort in the growth zone.</em>
 
+
 <table>
   <tr>
     <th>Journal</th>
