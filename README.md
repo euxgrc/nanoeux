@@ -1,4 +1,5 @@
 <html>
+<body>
 <h1>EUX GRC</h1>
 <h2>The World Outside My Comfort Zone</h2>
 <img src="https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.0-9/p720x720/83097508_627735004663166_2889125973469429760_o.jpg?_nc_cat=101&_nc_sid=dd9801&_nc_eui2=AeEpYYkk6sN5thIQnaT4Cu6Hop3RM-xiXZOindEz7GJdk2Bg9BskkY4fpStFZLKSzWe3IMv9W-kfyxtGjMxVGghR&_nc_ohc=K5DNAgJjUmQAX8BzH9l&_nc_ht=scontent.fmnl9-1.fna&_nc_tp=6&oh=0884f3fd772dbc72b13ac57ec5c90bb0&oe=5EFF7319" alt="Trulli" width="500" height="333">
@@ -15,7 +16,8 @@
     <th><img src="https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.0-0/p180x540/101558702_719492158820783_2642929446586069044_o.jpg?_nc_cat=100&_nc_sid=e007fa&_nc_eui2=AeGNuWRTT1WOOSAPC_iYwBvTMov0bSfJgrgyi_RtJ8mCuGKUjdQ7Wb3MMvF2waJ9ymSXlXVKxCKKmdqN_sm4zfQs&_nc_ohc=sTjNbds2ZJ8AX-Lyt_j&_nc_ht=scontent.fmnl9-1.fna&_nc_tp=6&oh=557c95cf9320ea7f0dc9e8ba8f748962&oe=5F0272AE" alt="Trulli" width="500" height="333"></th>
     <th><img src="https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.0-0/p180x540/101951320_719492128820786_8269509356822071428_o.jpg?_nc_cat=100&_nc_sid=e007fa&_nc_eui2=AeEr5clS52LmSUZRpD0Xu0LFBTdvJ8_BNnYFN28nz8E2dqNXgT-XYe4msJajEL9uoETJ5ZGgqEoBRrnjE3A374pL&_nc_ohc=Aeths5fSYJwAX8T48EU&_nc_ht=scontent.fmnl9-1.fna&_nc_tp=6&oh=3d5307a02dd0c2fc4559d1523560598a&oe=5F00B883" alt="Trulli" width="500" height="333"</th>
      <th><img src="https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.0-0/p180x540/102936311_719492152154117_7458794962615906772_o.jpg?_nc_cat=107&_nc_sid=e007fa&_nc_eui2=AeGuRkpISewuTIwvHmLpKdwTLtG9vmY91J8u0b2-Zj3Un6g11FnXIba995WwqrhU1leFDhVsVqBU4utjIFHPLCx6&_nc_ohc=zcRMsHFMvOoAX8XKPNm&_nc_ht=scontent.fmnl9-1.fna&_nc_tp=6&oh=84eecc4fc7ce94bbe44d3535186b0b52&oe=5F03BD10" alt="Trulli" width="500" height="333"</th>
-      
+  </tr>
+</table>    
   
 <p>I was always afraid of the unknown. It scares me when I do not know the things around me. But I came to realize that the thought of fear itself is greater than what it is we fear.</p>
 
@@ -29,4 +31,5 @@
 <em>One step at a time, Little by little.</em>
 <p>Explore the world and find a new world outside.</p>
 
+</body>
 </html>
