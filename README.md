@@ -3,7 +3,7 @@
   
 <h1 style="font-size:80px;font-family:Quiska;text-align:center">Eux Grc</h1>
 
-<h2 style="font-family:Mahoni Free Personal Use;text-align:center">The World Outside My Comfort Zone</h2> 
+<h2 style="font-family:Mahoni Free Personal Use;color:red;text-align:center">The World Outside My Comfort Zone</h2> 
 </body>
   
   
