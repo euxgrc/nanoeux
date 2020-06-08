@@ -13,7 +13,7 @@ body {
 
 <body>
   <style>
-    .parts > div{
+    .parts{
     display: grid;
     grid-template-columns: 30% 70%;
     }
