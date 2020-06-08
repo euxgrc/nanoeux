@@ -14,7 +14,7 @@ body {
 <body>
   <style>
     .parts{
-    display: grid;
+    display:grid;
     grid-template-columns: 30% 70%;
     }
     .parts > div{
