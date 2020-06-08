@@ -11,13 +11,11 @@ header {
   color: white;
 }
 
-/* Container for flexboxes */
 section {
   display: -webkit-flex;
   display: flex;
 }
 
-/* Style the navigation menu */
 nav {
   -webkit-flex: 1;
   -ms-flex: 1;
@@ -26,13 +24,11 @@ nav {
   padding: 20px;
 }
 
-/* Style the list inside the menu */
 nav ul {
   list-style-type: none;
   padding: 0;
 }
 
-/* Style the content */
 article {
   -webkit-flex: 3;
   -ms-flex: 3;
@@ -41,7 +37,6 @@ article {
   padding: 10px;
 }
 
-/* Style the footer */
 footer {
   background-color: #777;
   padding: 10px;
