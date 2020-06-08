@@ -15,7 +15,7 @@ body {
   <style>
     .parts{
     display:grid;
-    grid-template-columns: 2fr 3fr;
+    grid-template-columns: 40% 60%;
     grid-gap:2px;
     }
     .parts > div{
@@ -34,10 +34,7 @@ body {
   
 
   <div>
-  I was scared to lose you then
-But secrets turn into regrets
-Buried feelings grow
-Oh, you were a good dream
+ <p> Find my comfort in journaling. I just write everything out to throw the burden and feel relieved. </p>
   </div>
  
     
