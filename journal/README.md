@@ -10,6 +10,15 @@ body {
 }
 </style>
 </body>
+
+<body>
+  <style>
+    .parts > div{
+    background:#7DED9D;
+    padding:1em;
+    }
+    </style>
+  
 <div class= "parts">
   <div>
     Was there a lifetime waiting for us
