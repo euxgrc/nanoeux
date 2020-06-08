@@ -37,7 +37,7 @@ body {
   
 
   <div>
- <p> Find my comfort in journaling. I just write everything out to throw the burden and feel relieved. </p>
+ <p> I find my comfort in journaling. I was never a writter and I am not that comfortable in sharing my stories with other people. I grew up hiding what I want to say. With that being said, there comes a time where everything inside my head became so loud. So loud that it is hard to be myself anymore. So loud that all I hear is that noice and nothing more. Those moments were the time I feel the saddest. I just write everything out to throw the burden and feel relieved. </p>
   </div>
  
     
