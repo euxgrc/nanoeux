@@ -15,8 +15,8 @@ body {
   <style>
     .parts{
     display:grid;
-    grid-template-columns: 1fr 3fr;
-    grid-gap:1px;
+    grid-template-columns: 2fr 3fr;
+    grid-gap:2px;
     }
     .parts > div{
     background:#7DED9D;
