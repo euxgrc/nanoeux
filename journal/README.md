@@ -80,10 +80,10 @@ footer {
 </head>
 <body>
 
-<h1 style="font-size:40px;font-family:Quiska;text-align:center">Eux Grc/h1>
+<h1 style="font-family:Quiska;text-align:center">Eux Grc/h1>
 
 <header>
-  <h1 style="font-size:80px;font-family:Quiska;text-align:center">Travels/h1>
+  <h1 style="font-family:Quiska;text-align:center">Travels/h1>
 </header>
 
 <section>
