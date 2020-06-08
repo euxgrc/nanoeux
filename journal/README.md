@@ -1,5 +1,5 @@
 <html>
-<head>
+<body>
 
 <style>
 
@@ -49,5 +49,27 @@ footer {
   <h2>Travels</h2>
 </header>
 
+<section>
+  <nav>
+    <ul>
+      <li><a href="#">Baguio</a></li>
+      <li><a href="#">Batangas</a></li>
+      <li><a href="#">Buscalan</a></li>
+      <li><a href="#">Pangasinan</a></li>
+      <li><a href="#">Sagada</a></li>
+    </ul>
+  </nav>
 
+<article>
+    <h1>London</h1>
+    <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+    <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+  </article>
+</section>
+
+<footer>
+  <p>Footer</p>
+</footer>
+
+</body>
 </html>
