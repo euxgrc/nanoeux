@@ -15,7 +15,7 @@ body {
   <style>
     .parts > div{
     background:#7DED9D;
-    padding:1em;
+    padding:10px;
     }
     </style>
   
@@ -28,6 +28,8 @@ Smell of rain through the window pane
 And the sight of you
 Oh, you were a good dream
   </div>
+  
+ 
   <div>
   I was scared to lose you then
 But secrets turn into regrets
