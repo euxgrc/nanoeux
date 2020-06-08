@@ -38,7 +38,7 @@ body {
 
 <p>We all have fear. It is innate to us as humans. This is a comforting reminder that everybody is just as scared as how you feel about the unknown. You just have to choose whether you’re going to let this fear hold you back, or whether you’re going to run toward it.</p>
 
-<h1>Leap of Faith</h1>
+<h1 style="font-size:40px;font-family:Quiska">Leap of Faith</h1>
 
 <p>I am starting this space to do something different and discover more about myself. I want to have this time to really appreciate the little things in life. To find happiness in taking risk and face challenges confidently.</p> 
 
