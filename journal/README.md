@@ -14,9 +14,7 @@ body {
 <h1 style="font-size:80px;font-family:Quiska;text-align:center">Eux Grc-Journal</h1>
 
 <h2 style="font-family:Mahoni Free Personal Use;color:red;text-align:center">The World Outside My Comfort Zone</h2> 
-</body>
 
-<body>
   <style>
     .parts{
     display:grid;
@@ -43,5 +41,5 @@ body {
   </div>
  
     
-
+</body>
 </html>
