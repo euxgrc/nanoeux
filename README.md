@@ -10,13 +10,13 @@ body {
 }
 </style>
 
-<h1 style="font-size:80px;font-family:Brush Script MT;text-align:center">Eux Grc</h1>
+<h1 style="font-size:90px;font-family:Brush Script MT;text-align:center">Eux Grc</h1>
 
-<h2 style="font-family:Mahoni Free Personal Use;color:red;text-align:center">The World Outside My Comfort Zone</h2> 
+<h2 style="font-family:Candara;color:red;text-align:center">The World Outside My Comfort Zone</h2> 
   
 <img src="https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.0-9/p720x720/83097508_627735004663166_2889125973469429760_o.jpg?_nc_cat=101&_nc_sid=dd9801&_nc_eui2=AeEpYYkk6sN5thIQnaT4Cu6Hop3RM-xiXZOindEz7GJdk2Bg9BskkY4fpStFZLKSzWe3IMv9W-kfyxtGjMxVGghR&_nc_ohc=K5DNAgJjUmQAX8BzH9l&_nc_ht=scontent.fmnl9-1.fna&_nc_tp=6&oh=0884f3fd772dbc72b13ac57ec5c90bb0&oe=5EFF7319" alt="Trulli" width="1000" height="666">
 
-<em style="font-family:Candara;font-size:60px;color:red;text-align:center">There is no growth in the comfort zone and no comfort in the growth zone.</em>
+<em style="font-family:Candara;font-size:40px;color:red;text-align:center">There is no growth in the comfort zone and no comfort in the growth zone.</em>
 
 <table>
   <tr>
