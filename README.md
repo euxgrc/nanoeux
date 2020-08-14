@@ -43,5 +43,5 @@ body {
 <em>One step at a time, Little by little.</em>
 <p>Explore the world and find a new world outside.</p>
 
-</body>
+
 </html>
